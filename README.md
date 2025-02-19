@@ -5,13 +5,13 @@
 
 ## Proyecto con Terraform y AWS
 
-Este es un pequeño projecto de una pequeña infraestructura en AWS.
+Este es un pequeño projecto de una infraestructura en AWS.
 
 ![HOME](https://cdn.plainconcepts.com/wp-content/uploads/2022/10/terraform-que-es.png)
 
-## 🚀 Project Structure
+## 🚀 Estructura del proyecto
 
-Inside of your Terraform project, you'll see the following folders and files:
+Dentro de mi proyecto Terraform, verás las siguientes carpetas y archivos:
 
 ```text
 terraform-learn/
