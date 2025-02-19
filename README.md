@@ -17,6 +17,15 @@ Inside of your Terraform project, you'll see the following folders and files:
 terraform-learn/
 ├── README.md
 ├── main.tf
+├── modules
+│   ├── ec2-instances
+│   │   ├── main.tf
+│   │   ├── outputs.tf
+│   │   └── variables.tf
+│   └── loadbalancer
+│       ├── main.tf
+│       ├── outputs.tf
+│       └── variables.tf
 ├── outputs.tf
 ├── terraform.tfstate
 ├── terraform.tfstate.backup
